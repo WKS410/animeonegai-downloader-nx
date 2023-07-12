@@ -1,4 +1,4 @@
-# AnimeOnegai-Downloader
+# animeonegai-downloader-nx
 
 The previous script had been removed due to the presence of some minor bugs, and simultaneously, I was dissatisfied with the design I had implemented on it.
 
