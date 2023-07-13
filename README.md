@@ -21,8 +21,6 @@ By default this application uses the following paths to programs (main executabl
 * `./re.exe`
 * `./mp4decrypt.exe`
 
-To change these paths you need to edit `bin-path.yml` in `./config/` directory.
-
 ## CLI Options
 
 ### Authentication
