@@ -27,7 +27,7 @@ By default this application uses the following paths to programs (main executabl
 
 Open config.json and add your email and password.
 
-### Get Show ID
+### Search
 
 * `--search <s>` sets the show title for search
 
